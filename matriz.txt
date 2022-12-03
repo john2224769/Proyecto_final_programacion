@@ -1,0 +1,6 @@
+
+ Primero 	 carro 	 13874 	 asd761 
+ segundo 	 moto 	 194 	 has870 
+ tercero 	 bicicleta 	 98714 	 asd87 
+ ultimo 	 carro 	 8701 	 gds923 
+ 
